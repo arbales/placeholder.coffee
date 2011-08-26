@@ -3,7 +3,7 @@
 # Version 0.1
 #
 # A sane cross-browser placeholder library that ditches positioning quirks.
-# Inspired by Twitter's login fields.
+# Inspired by Twitter's login fields. Gives you behavior — you provide the style.
 #
 # Depends on Underscore and jQuery/Zepto.
 #
